@@ -61,6 +61,9 @@
     <td><b>BI-платформы</b></td>
     <td>
       <img src="https://img.shields.io/badge/QlikSense-FFB800?style=flat&logo=qlik&logoColor=white" alt="QlikSense">
+      <img src="https://img.shields.io/badge/Analytic_Workspace-3498DB?style=flat&logo=analytics&logoColor=white" alt="Analytic Workspace">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
     </td>
   </tr>
   <tr>
