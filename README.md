@@ -46,6 +46,7 @@
     <td>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
   <tr>
@@ -54,6 +55,12 @@
       <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    </td>
+  </tr>
+  <tr>
+    <td><b>BI-платформы</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/QlikSense-FFB800?style=flat&logo=qlik&logoColor=white" alt="QlikSense">
     </td>
   </tr>
   <tr>
