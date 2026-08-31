@@ -15,7 +15,11 @@
 
 <div align="center">
 
-[![Projects](https://img.shields.io/badge/-Мои_проекты-0D1117?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/GavrikovAlex?tab=repositories)
+### 👇 Мои проекты
+
+<a href="https://github.com/GavrikovAlex?tab=repositories">
+  <img src="https://img.shields.io/badge/Смотреть_проекты-blue?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D47A1" alt="Мои проекты">
+</a>
 
 </div>
 
