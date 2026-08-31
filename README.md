@@ -18,7 +18,7 @@
 ### 👇 Мои проекты
 
 <a href="https://github.com/GavrikovAlex?tab=repositories">
-  <img src="https://img.shields.io/badge/Смотреть_проекты-blue?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D47A1" alt="Мои проекты">
+  <img src="https://img.shields.io/badge/Смотреть_проекты-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Мои проекты">
 </a>
 
 </div>
